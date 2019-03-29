@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_bj6C8FIHEemxZpg4yVtn9A" label="Craftsman_Job" description="" language="java" technicalLabel="CRAFTSMAN_JOB" creationDate="2019-03-29T15:14:24.494+0530" author="_bj6C8VIHEemxZpg4yVtn9A" productVersion="Talend Data Integration-7.0.1.20180411_1414" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/sugapriya126/test.git&quot;,&quot;login&quot;:&quot;sugapriya.s@oneglobesystems.com&quot;,&quot;passwd&quot;:&quot;13YLPBvkDeyK9o9dPYulZg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_bj6C8VIHEemxZpg4yVtn9A" login="sowmiya.r@oneglobesystems.com" firstName="sowmiya" lastName="r" type="DI" additionnalData="{}"/>
+</xmi:XMI>
